@@ -1,4 +1,4 @@
-course_projects
+Website optimizing project
 ===============
 
-This repository consists of all projects i ll do as part of the online courses that i take
+This is the udacity optional project on website optimization
